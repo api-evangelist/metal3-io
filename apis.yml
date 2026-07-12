@@ -38,6 +38,8 @@ apis:
       - Hardware Management
       - Provisioning
 common:
+  - type: DomainSecurity
+    url: security/metal3-io-domain-security.yml
   - type: Documentation
     name: Metal3 Documentation
     description: Official Metal3 documentation.
@@ -46,6 +48,8 @@ common:
     name: Metal3 GitHub
     description: Source code repositories.
     url: https://github.com/metal3-io
+  - url: https://metal3.io/feed.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
