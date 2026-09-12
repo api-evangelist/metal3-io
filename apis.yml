@@ -68,6 +68,8 @@ apis:
       - Hardware Management
       - Provisioning
 common:
+  - type: Website
+    url: https://metal3.io/
   - type: DomainSecurity
     url: security/metal3-io-domain-security.yml
   - type: Documentation
