@@ -1,0 +1,26 @@
+# Front Door AI Index — metal3-io — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: metal3-io
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: metal3.io
+  final_host: metal3.io
+  ownership: own
+  owner: metal3-io
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 1
+  host_score: 1
+  density: 2.29
+  words: 436
+  tiers:
+    agentic: 1
+    core: 0
+    model: 0
+  ambiguous: 1
+  top_terms:
+    automation: 1
+    copilot: 1
